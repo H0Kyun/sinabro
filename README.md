@@ -86,43 +86,43 @@
 ### 👀 시나브로 서비스 화면
 <h3> 수강자 화면 <h3>
 <p> 회원가입 및 로그인 </p>
-<img src="/uploads/5077396214b6e84f594f35969f243a30/첫페이지.PNG" width="60%"> 
-<img src="/uploads/7d269376db5b6ff48eb30ed67740f65c/회원가입1.PNG" width="60%"> 
-<img src="/uploads/a44cf3ede3ee17f1770eaec72ef47b7d/회원가입2.PNG" width="60%"> 
-<img src="/uploads/0134dfe9d711365e461226cb0d2840ea/회원가입3.jpg" width="60%"> 
-<img src="/uploads/fcf1e93d0e692769c585edf139e0e4a6/회원가입4.PNG" width="60%"> 
-<img src="/uploads/4278820184e4d78d11d8bb2bf9b6a46e/회원가입5.PNG" width="60%"> 
-<img src="/uploads/145745ebae9252ea5ad1c3dafa61ac2e/회원가입6.PNG" width="60%"> 
-<img src="/uploads/87e3ef59a606b6d86b606d398fb9f403/로그인.PNG" width="60%">
+<img src="https://user-images.githubusercontent.com/72697808/225908992-9055ab00-1524-449d-b71c-03f235725f79.PNG" width=60%> 
+<img src="https://user-images.githubusercontent.com/72697808/225909650-b6792feb-f006-4492-9477-fd1d47d3a6e9.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225909848-7298b6ff-240d-4a89-811d-4b0308880993.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225910183-772714c1-8faf-48e5-a815-f4dcfe9e9647.jpg" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225910597-b91edd1c-60d1-478f-b55a-7e63152a319a.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225910952-699e371a-1a20-477b-8566-f5eaacdad435.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225911188-77204cac-6fd1-40d4-af76-d9854367ac18.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225911301-c6fabfa1-0728-4683-b46e-16309ea4a939.PNG" width="60%">
 <p> 메인페이지 <p/>
-<img src="/uploads/ec233acd4f53b1dd9ed7e5a822dce124/메인1.PNG" width="60%">
+<img src="https://user-images.githubusercontent.com/72697808/225911490-7ee188b5-b6b4-41d9-94d6-e3c6128a53ca.PNG" width="60%">
 <p> 수강신청<p/>
-<img src="/uploads/51c681b2244bc3675ad82e9f8a2eec54/수강신청1.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225911839-9a9613d6-f6f9-4863-9169-f9acbc783234.PNG" width="60%"> 
 <p> 나의배움터 확인<p/>
-<img src="/uploads/9ce41273b6fd151c594bff10586aa0b8/수강신청.jpg" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225911926-df69388c-74e8-4612-9aec-91e0c5743b46.jpg" width="60%"> 
 <p> 대분류/소분류 카테고리별 강의 검색<p/>
-<img src="/uploads/673e9e0bbe14f23c2b0b1b3c66467bdb/소분류카테고리.png" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225912027-726318da-f015-4807-9537-c59ac96e7bb2.png" width="60%"> 
 <p> 강의 검색 결과 <p/>
-<img src="/uploads/3e9071b5aa5885250827c23ee3c23965/검색결과.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225912198-47725d29-b0af-4ead-8cbf-dc0456b0e053.PNG" width="60%"> 
 <p> 강의 입장 <p/>
-<img src="/uploads/73fd946c784ddbead580ff5d44af306d/수강신청.jpg" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225912567-4005631d-fd31-4d64-a46b-cf1588f4279f.jpg" width="60%"> 
 <p> 마이크 및 비디오 켜기/끄기 <p/>
-<img src="/uploads/6ed1f4ba19628fc0ab5b220e0998dc53/강의입장.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225912297-594fe2d9-7d91-47f3-bb60-332d0b90f58e.PNG" width="60%"> 
 <p> 돋보기 기능 <p/>
-<img src="/uploads/a4b3244a9574e915715a6a58d465ccf7/돋보기.PNG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225912929-2b1399f4-d222-41a7-aaaa-1af556a72bb7.PNG" width="60%"> 
 
 
 <h3> 강의자 화면 </h3>
 <p> 강의자 메인페이지<p/>
-<img src="/uploads/c924f6743f7a71b16bd5bd0ed6f6f194/강사메인.png" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225913039-1e0563d5-296c-42ec-98f6-5ce88aa30fa4.png" width="60%"> 
 <p> 강의자 강의화면<p/>
-<img src="/uploads/b6747cdca31ebe662c0ba0ba44b50f2f/강사강의화면.png" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225913177-25aa332b-3dbc-441c-91e9-01f8812ab084.png" width="60%"> 
 <p> 화면공유시 화면<p/>
-<img src="/uploads/3bc5169772dde8e0999bd854b9dd534d/화면공유.png" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225913253-e68d0428-52d2-4cb1-829c-d7848d18c86e.png" width="60%"> 
 <p> 참여형 화면<p/>
-<img src="/uploads/ce9293f2cf57d14d8ac3fb900fc963af/참여형.png" width="60%">
+<img src="https://user-images.githubusercontent.com/72697808/225914404-3f114be4-b2a6-407d-bdc0-42f90c4b9e4b.png" width="60%">
 <p> 전체음소거 기능 <p/>
-<img src="/uploads/7ea03d8220471af5b48af81e62721377/전체음소거.png" width="60%"> 
+<img src="https://user-images.githubusercontent.com/72697808/225914425-28aa9a55-d3f9-4313-9f60-9355adb937c6.png" width="60%"> 
 
 ### ✨ 실행방법
 - 포팅 매뉴얼 참조 
@@ -144,16 +144,19 @@
     - Nginx
 
 ### 🔨 시스템 아키텍처
-![시스템아키텍처](/uploads/1c157d6efcae4d6ef1569ca871c1684e/시스템아키텍처.PNG)
+![시스템아키텍처](https://user-images.githubusercontent.com/72697808/225914624-f440dba2-143f-4933-a7da-3dcf5dcf5ea3.PNG)
 
 ### 🎨 ERD 
-![ERD](/uploads/af052303cf82cc6eb439994ca6026630/ERD.png)
+
+![ERD](https://user-images.githubusercontent.com/72697808/225914669-ae4229c6-d98c-4fa3-9451-433f2541feae.png)
 
 ### 💡 API 명세서
-![API문서](/uploads/0a6f1eeb7e5669e0424af665f4dd88a8/API문서.PNG)
+    
+![API문서](https://user-images.githubusercontent.com/72697808/225914702-4a5bf635-ea91-43d8-911a-73867dc068d4.PNG)
 
 ### 🗓️ 스케줄(간트차트)
-![간트차트](/uploads/17496513a462478c1140046810855eee/간트차트.png)
+
+![간트차트](https://user-images.githubusercontent.com/72697808/225915125-bc38526f-4aa7-4e1b-90be-493de33efe63.png)
 
 ### 💪 협업툴 
 - Notion 
